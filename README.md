@@ -72,7 +72,6 @@ MIT License. See LICENSE file.
 
 ## Authors
 - Kenny (original author)
-- [Your name here!]
 
 ---
 **Note:** This is a research/demonstration project and not a medical or legal communication tool. 
